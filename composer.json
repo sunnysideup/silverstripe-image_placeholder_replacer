@@ -1,0 +1,20 @@
+{
+	"name": "silverstripe/image_placeholder_replacer",
+	"type": "silverstripe-module",
+	"description": "helps you add 'default' images to your Silverstripe projects. The code will copy images from your repository folder to the asset folder as placeholder images.",
+	"homepage": "http://www.silverstripe-webdevelopment.com",
+	"keywords": ["image_placeholder_replacer", "silverstripe"],
+	"license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
+	"authors":[
+		{
+			"name": "Nicolaas Francken",
+			"homepage": "https://github.com/sunnysideup",
+			"email" : "modules@sunnysideup.co.nz",
+			"role" : "lead developer"
+		}
+	],
+	"require":{
+		"php": ">=5.3.2",
+		"silverstripe/framework": "3.0.*"
+	}
+}
