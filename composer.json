@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/image_placeholder_replacer",
+	"name": "sunnysideup/image_placeholder_replacer",
 	"type": "silverstripe-module",
 	"description": "helps you add 'default' images to your Silverstripe projects. The code will copy images from your repository folder to the asset folder as placeholder images.",
 	"homepage": "http://www.silverstripe-webdevelopment.com",
