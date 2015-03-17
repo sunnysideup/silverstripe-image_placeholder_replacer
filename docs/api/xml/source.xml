@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source xmlns="http://xml.phpdox.net/src">
+  <dir name="/var/www/_modules/image_placeholder_replacer/trunk">
+    <file name="_config.php" size="1246" time="2015-03-14T10:22:13+13:00" unixtime="1426281733" sha1="92366a0786e1b6d2ea0301c3e75f5d73214fe8d7" xml="tokens/_config.php.xml"/>
+    <dir name="code">
+      <dir name="config">
+        <file name="ImagePlaceHolderReplacer.php" size="5674" time="2015-03-14T10:22:13+13:00" unixtime="1426281733" sha1="8cd63d623f48b23f15f05490ca2180e3a2482c5d" xml="tokens/code/config/ImagePlaceHolderReplacer.php.xml"/>
+      </dir>
+    </dir>
+  </dir>
+</source>
