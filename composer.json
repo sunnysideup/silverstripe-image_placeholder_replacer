@@ -3,8 +3,10 @@
     "type": "silverstripe-module",
     "description": "helps you add 'default' images to your Silverstripe projects. The code will copy images from your repository folder to the asset folder as placeholder images.",
     "keywords": [
-        "image_placeholder_replacer",
-        "silverstripe"
+        "Silverstripe-CMS",
+        "CMS",
+        "Silverstripe",
+        "image_placeholder_replacer"
     ],
     "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
     "authors": [
@@ -15,7 +17,8 @@
         }
     ],
     "require": {
-        "silverstripe/framework": "~2.4"
+        "silverstripe/framework": "~2.4",
+        "silverstripe/cms": "~2.4"
     },
     "extra": {
         "installer-name": "image_placeholder_replacer"
