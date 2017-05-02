@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<index xmlns="http://xml.phpdox.net/src" basedir="/var/www/_modules/image_placeholder_replacer/trunk">
-  <namespace name="">
-    <class name="ImagePlaceHolderReplacer" src="code/config/ImagePlaceHolderReplacer.php" description="author nicolaas [at] sunnysideup.co.nz + toro[at] sunnysideup.co.nz" xml="classes/ImagePlaceHolderReplacer.xml"/>
-  </namespace>
-</index>
